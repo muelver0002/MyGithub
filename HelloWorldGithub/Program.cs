@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 
 namespace HelloWorldGithub
 {
@@ -7,9 +6,8 @@ namespace HelloWorldGithub
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			Console.WriteLine("Hello World and Hello Github!");
 			
-			// TODO: Implement Functionality Here
 			
 			Console.Write("Press any key to continue . . . ");
 			Console.ReadKey(true);
